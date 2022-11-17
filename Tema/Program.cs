@@ -30,7 +30,7 @@ s1.HttpRequest(u3);
 Console.WriteLine("Rating-ul final este {0} ",s2.RateApp());
 u1.ChangePassword("parolanoua");
 u1.GetPassword();
-Console.WriteLine(s1);
+Console.WriteLine(s2);
 
 
 
